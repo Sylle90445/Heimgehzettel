@@ -1,0 +1,66 @@
+{
+    "engel400_Spritzgussmaschine": [
+      {
+        "id": "1",
+        "title": "Sample Instruction",
+        "description": "This is a sample instruction.",
+        "steps": [
+          {
+            "text": "Step 1",
+            "media": [],
+            "mediaType": ""
+          }
+        ],
+        "creationDate": "2023-10-01T12:00:00",
+        "modificationDate": null
+      }
+    ],
+    "engel900_Roboter": [
+      {
+        "id": "1",
+        "title": "Sample Instruction for Roboter",
+        "description": "This is a sample instruction for Roboter.",
+        "steps": [
+          {
+            "text": "Step 1",
+            "media": [],
+            "mediaType": ""
+          }
+        ],
+        "creationDate": "2023-10-01T12:00:00",
+        "modificationDate": null
+      }
+    ],
+    "engel1500_Zelle_Schweißanlage": [
+      {
+        "id": "1",
+        "title": "Sample Instruction for Schweißanlage",
+        "description": "This is a sample instruction for Schweißanlage.",
+        "steps": [
+          {
+            "text": "Step 1",
+            "media": [],
+            "mediaType": ""
+          }
+        ],
+        "creationDate": "2023-10-01T12:00:00",
+        "modificationDate": null
+      }
+    ],
+    "engel_Diverse": [
+      {
+        "id": "1",
+        "title": "Sample Instruction for Diverse",
+        "description": "This is a sample instruction for Diverse.",
+        "steps": [
+          {
+            "text": "Step 1",
+            "media": [],
+            "mediaType": ""
+          }
+        ],
+        "creationDate": "2023-10-01T12:00:00",
+        "modificationDate": null
+      }
+    ]
+  }
